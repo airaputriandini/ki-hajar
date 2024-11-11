@@ -1,5 +1,5 @@
 body {
-    display; grid;
+    display: grid;
     grid-template-columns: 550px auto;
     margin : 0; 
     font-size: 20px;
@@ -89,4 +89,52 @@ body {
    text-align: center;
    color: #d6c0d3;
    background-color:bisque;
+}
+/* RIGHT SIDE */
+.right-side {
+    background-color: blanchedalmond;
+    color: bisque;
+}
+.name-container {
+    margin-top: 150px;
+    text-align: -webkit-right;
+}
+.name-profie {
+    width: 700px;
+    background-color: #a67b5b;
+    text-align: left;
+    font-size: 60px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.name-profie-text {
+    margin-left: 15px;
+    flex-grow: 0;
+    color: #a67b5b ;
+}
+.name-profile-divider-master {
+    flex-grow: 1;
+    margin-bottom: 15px;
+}
+.name-profile-divider {
+    height: 10px;
+    background-color: #866144;
+}
+.name-profile-divider-first {
+    margin-bottom: 10px;
+    height: 5px;
+    background-color: #6f4e37 ;
+}
+.name-profile-divider-last {
+    margin-top: 10px;
+    height: 5px;
+    background-color: #998d4af8;
+}
+.nick-profie {
+    text-align: left;
+    width: 700px;
+ 
+
 }
