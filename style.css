@@ -13,7 +13,7 @@ body {
 }
 /*LEFT SIDE */
 .left-side {
-    background-color: #493628;
+    background-color:#6f4e37;
 }
 .left-container {
    margin-top :600px; 
@@ -87,13 +87,13 @@ body {
 .left-subject-value {
    padding: 0.01em 16px;
    text-align: center;
-   color: #d6c0d3;
+   color:#866144;
    background-color:bisque;
 }
 /* RIGHT SIDE */
 .right-side {
     background-color: blanchedalmond;
-    color: bisque;
+    color:#866144;
 }
 .name-container {
     margin-top: 150px;
@@ -101,7 +101,7 @@ body {
 }
 .name-profile {
     width: 700px;
-    background-color: #a67b5b;
+    background-color:#866144;
     text-align: left;
     font-size: 60px;
     font-weight: bold;
@@ -112,7 +112,7 @@ body {
 .name-profile-text {
     margin-left: 15px;
     flex-grow: 0;
-    color: #a67b5b ;
+    color:#866144 ;
 }
 .name-profile-divider-master {
     flex-grow: 1;
@@ -130,7 +130,7 @@ body {
 .name-profile-divider-last {
     margin-top: 10px;
     height: 5px;
-    background-color: #998d4af8;
+    background-color:#e4e0e1;
 }
 .nick-profie {
     text-align: left;
@@ -167,7 +167,7 @@ body {
     margin: 105px;
 }
 .right-title-box {
-    background-color: #866144;
+    background-color:#a67b5b;
     color: saddlebrown;
     width: 400px;
     padding-left: 50px;
@@ -183,9 +183,9 @@ body {
     font-size: 23px;
     font-weight: bold;  
     margin-top: 25px;
-    color: #a67b5b;
+    color:#866144;
 }
-.righgt-time {
+.right-time {
     margin-top: 15px;
     width: 150px;
     border-bottom-style: solid;
@@ -204,7 +204,7 @@ body {
     margin-top: 25px;
     font-size: 23px;
     font-weight: bold;
-    color: #493628;
+    color:#866144;
 }
 .right-value-item {
     width: 300px;
@@ -227,7 +227,7 @@ body {
 .sosmed {
     margin-left: 15px;
     flex-grow: 0;
-    color: #a67b5b;
+    color:#866144;
     display: flex;
 }
 .sosmed-text {
