@@ -101,7 +101,7 @@ body {
 }
 .name-profie {
     width: 700px;
-    background-color: #a67b5b;
+    background-color:#866144;
     text-align: left;
     font-size: 60px;
     font-weight: bold;
@@ -112,7 +112,7 @@ body {
 .name-profie-text {
     margin-left: 15px;
     flex-grow: 0;
-    color: #a67b5b ;
+    color:#866144 ;
 }
 .name-profile-divider-master {
     flex-grow: 1;
