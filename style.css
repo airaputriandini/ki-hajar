@@ -81,6 +81,7 @@ body {
    margin-top: 20px;  
    font-weight: bold;
    font-size: 25px;
+   color: blanchedalmond;
 }
 .left-subject-container {
    width: 380px;
@@ -92,6 +93,9 @@ body {
    text-align: center;
    color:#866144;
    background-color:bisque;
+}
+.left-value-desc {
+    color: blanchedalmond;
 }
 /* RIGHT SIDE */
 .right-side {
@@ -171,7 +175,7 @@ body {
 }
 .right-title-box {
     background-color:#a67b5b;
-    color: saddlebrown;
+    color: blanchedalmond;
     width: 400px;
     padding-left: 50px;
     padding-top: 5px;
@@ -230,8 +234,9 @@ body {
 .sosmed {
     margin-left: 15px;
     flex-grow: 0;
-    color:#866144;
+    color: blanchedalmond;
     display: flex;
+    align-items:center;
 }
 .sosmed-text {
     letter-spacing: 3px;
