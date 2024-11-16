@@ -99,7 +99,7 @@ body {
     margin-top: 150px;
     text-align: -webkit-right;
 }
-.name-profie {
+.name-profile {
     width: 700px;
     background-color: #a67b5b;
     text-align: left;
@@ -109,7 +109,7 @@ body {
     flex-direction: row;
     align-items: center;
 }
-.name-profie-text {
+.name-profile-text {
     margin-left: 15px;
     flex-grow: 0;
     color: #a67b5b ;
@@ -204,7 +204,7 @@ body {
     margin-top: 25px;
     font-size: 23px;
     font-weight: bold;
-    color: #a67b5b;
+    color: #493628;
 }
 .right-value-item {
     width: 300px;
