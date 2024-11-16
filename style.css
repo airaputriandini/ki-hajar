@@ -20,8 +20,8 @@ body {
    margin-left: 100px;
 }
 .left-title-box {
-    background-color: #e4e0e1;
-    color: blanchedalmond;
+    background-color:#a67b5b;
+    color:#e4e0e1;
     width: 220px;
     padding-left: 20px;
     padding-top: 5px;
@@ -64,15 +64,18 @@ body {
     padding-left: 20px;
     padding-right: 20px;
     margin-left: 10px;
+    color:blanchedalmond;
 }
 .left-list-title {
     font-size: 23px;
     font-weight: bold;
     border-bottom-style: solid;
-    border-color: blanchedalmond;
+    border-color:peru;
+    color:blanchedalmond;
 }
 .left-list-time {
-   font-weight: bold
+   font-weight: bold;
+   color:blanchedalmond;
 }
 .left-subject-title {
    margin-top: 20px;  
