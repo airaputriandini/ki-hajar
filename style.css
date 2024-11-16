@@ -63,7 +63,7 @@ body {
     padding-bottom: 12px;
     padding-left: 20px;
     padding-right: 20px;
-    margin-left: 10px;
+    margin-left: 20px;
     color:blanchedalmond;
 }
 .left-list-title {
@@ -135,13 +135,13 @@ body {
     height: 5px;
     background-color:#e4e0e1;
 }
-.nick-profie {
+.nick-profile {
     text-align: left;
     width: 700px;
     font-size: 40px;
     font-weight: bold;
 }
-.nick-profie-box {
+.nick-profile-box {
     border-left-style: solid; 
     border-bottom-style: solid;
     border-right-style: solid;
@@ -153,8 +153,8 @@ body {
     text-align: left;
     width: 700px;
 }
-.desc-first {
-    width: 60px;
+.desc-first-text {
+    width: 600px;
     text-align: justify;
 }
 .desc-last {
@@ -243,7 +243,7 @@ body {
     margin-left: 15px;
 }
 .sosmed-divider {
-    height: 80px;
+    height: 8px;
     background-color: #a67b5b;
 }
 .sosmed-divider-first {
